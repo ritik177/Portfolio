@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./education.css";
 
 function Education() {
@@ -64,7 +64,7 @@ function Education() {
               <div className="row">
                 <div className="buttons">
                   <a
-                    href="https://drive.google.com/file/d/1hdQcytsOLSRAEC2ucg6ocS4NcGJO_AqP/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1D5cUdiTxIcHgpPnA8uEkmxO1rWKT0f2d/view?usp=sharing"
                     target="_blank"
                     className="btn"
                   >
