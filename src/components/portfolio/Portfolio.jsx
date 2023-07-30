@@ -47,8 +47,8 @@ const data=[
   id:5,
   image:IMG5,
   title:"Calculator",
-  github:'https://github.com/ritik177',
-  demo:'https://calculator-ritik177.vercel.app/'
+  github:'https://github.com/ritik177/Calculator',
+  demo:'https://calculator-six-nu.vercel.app/'
 },
 
 {

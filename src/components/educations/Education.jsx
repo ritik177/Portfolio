@@ -1,6 +1,7 @@
 import React from "react";
 // import { Link } from "react-router-dom";
 import "./education.css";
+import CV from '../../assets/cv.pdf';
 
 function Education() {
   return (
@@ -64,7 +65,8 @@ function Education() {
               <div className="row">
                 <div className="buttons">
                   <a
-                    href="https://drive.google.com/file/d/1D5cUdiTxIcHgpPnA8uEkmxO1rWKT0f2d/view?usp=sharing"
+                    // href="https://drive.google.com/file/d/1ZEkniMLaUDf8uI14mh8EGOSYAWBrcMaU/view"
+                    href={CV}
                     target="_blank"
                     className="btn"
                   >
