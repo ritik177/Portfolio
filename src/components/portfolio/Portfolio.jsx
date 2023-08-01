@@ -16,7 +16,7 @@ const data=[
   image:IMG1,
   title:"Amazon clone",
   github:'https://github.com/ritik177',
-  demo:'https://amazon-clone-g8l8.onrender.com/'
+  demo:'https://amazon-clone-vpaf.onrender.com/'
 },
 
 {

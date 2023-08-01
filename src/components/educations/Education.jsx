@@ -87,7 +87,7 @@ function Education() {
                 <div className="skill-items padd-15">
                   <h5>Front End(Bootstrap, React, and Javascript)</h5>
                   <div className="progress">
-                    <div className="progress-in" style={{ width: "80%" }} />
+                    <div className="progress-in" style={{ width: "10%" }} />
                   </div>
                 </div>
                 <div className="skill-items padd-15">

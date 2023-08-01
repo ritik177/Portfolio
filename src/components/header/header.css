@@ -1,14 +1,37 @@
+
+
 header{
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
 }
 
+
 .header_container{
     text-align: center;
     height: 100%;
     position: relative;
 }
+
+/* .container header_container h1{
+    position: relative;
+}
+container header_container h1 ::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background:#343F4F;
+    border-left: 2px solid #FC6D6D;
+    animation: typing 1.5s steps(10) infinite;
+}
+@keyframes typing{
+    100%{
+        left: 100%;
+        margin:0 -35px 0 35px;
+    }
+} */
 
 /*  ############## CTA ############## */
 
