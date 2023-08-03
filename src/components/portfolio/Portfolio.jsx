@@ -6,6 +6,9 @@ import IMG3 from '../../assets/portfolio3.jpg';
 import IMG4 from '../../assets/portfolio4.png';
 import IMG5 from '../../assets/portfolio5.png';
 import IMG6 from '../../assets/portfolio6.png';
+import IMG7 from '../../assets/portfolio7.png';
+
+
 
 //DO NOT USE THE IMAGES IN PRODUCTION
 
@@ -57,6 +60,13 @@ const data=[
   title:"Tic-Tac-Toe Game",
   github:'https://github.com/ritik177',
   demo:'https://tic-tac-toe-theta-dun.vercel.app/'
+},
+{
+  id:7,
+  image:IMG7,
+  title:"BirthDay_Wishes",
+  github:'https://github.com/ritik177/Birthday-Wishes',
+  demo:'https://birthday-wishes-eosin.vercel.app/'
 }
 
 ];
