@@ -1,7 +1,7 @@
 import React from 'react'
 import "./header.css";
 import CTA from './CTA';
-// import ME from '../../assets/ritik.png';
+import ME from '../../assets/developer.png';
 import HeaderSocials from './HeaderSocials';
 
 const Header = () => {
@@ -16,10 +16,10 @@ const Header = () => {
     <h4 className="text-light">(MERN Stack)</h4>
   <CTA/>
   <HeaderSocials/>
-{/* 
+
      <div className="me">
       <img src={ME} alt="" />
-     </div> */}
+     </div>
 
      <a href="#contact" className='scroll_down'>Scroll Down</a>
 

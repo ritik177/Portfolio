@@ -128,8 +128,8 @@ container header_container h1 ::after{
 /*  ############## ME ############## */
 
 .me{
-    background:linear-gradient(var(--color-primary),transparent);
-    width: 13rem;
+    /* background:linear-gradient(var(--color-primary),transparent); */
+    width: 20rem;
     height: 100%;
     position: absolute;
     left: calc(50% - 7rem);
@@ -140,10 +140,16 @@ container header_container h1 ::after{
     
     
 }
+.me img {
+    border-radius: 2rem;
+    overflow: hidden;
+    transform: rotate(0);
+    transition: var(--transition);
+  }
 
-.me:hover{
+/* .me:hover{
     transform: scale(1.25);
-}
+} */
 
 /* ##################### SCROLL DOWN  #################*/
 
@@ -161,7 +167,7 @@ container header_container h1 ::after{
 
 @media  screen and (max-width: 1024px){
   header{
-    height: 68vh;
+    height: 70vh;
   }
 }
 
@@ -175,5 +181,8 @@ container header_container h1 ::after{
 }
  .scroll_down{
     display:none;
+}
+.me{
+    width: 15rem;
 }
 }
