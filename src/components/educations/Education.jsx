@@ -87,7 +87,7 @@ function Education() {
                 <div className="skill-items padd-15">
                   <h5>Front End(Bootstrap, React, and Javascript)</h5>
                   <div className="progress">
-                    <div className="progress-in" style={{ width: "10%" }} />
+                    <div className="progress-in" style={{ width: "90%" }} />
                   </div>
                 </div>
                 <div className="skill-items padd-15">
@@ -128,7 +128,7 @@ function Education() {
                         Bachelor of Technology in Information Technology
                       </h4>
                       <p className="timeline-text">
-                        Currently, I am a Pre Final undergraduate at{" "}
+                        Currently, I am a  Final undergraduate at{" "}
                         <a
                           href="http://csjmu.ac.in/school-of-engineering-and-technology"
                           target="_blank">

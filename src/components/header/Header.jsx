@@ -7,11 +7,14 @@ import HeaderSocials from './HeaderSocials';
 const Header = () => {
   return (
     <header>
+      
   <div className='container header_container'>
+
     <h4>Hello I'm</h4>
-    <h1 >Ritik Patel
-    
-    </h1>
+    <h1>Ritik Patel</h1>
+
+   
+
     <h4 className="text-light">Fullstack Developer</h4>
     <h4 className="text-light">(MERN Stack)</h4>
   <CTA/>
