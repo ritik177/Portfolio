@@ -21,9 +21,16 @@ const data=[
   github:'https://github.com/ritik177',
   demo:'https://amazon-clone-lqqk.onrender.com/'
 },
+  {
+  id:2,
+  image:IMG1,
+  title:"E-Commerce",
+  github:'https://github.com/ritik177/E-Commerce-website',
+  demo:'e-commerce-website-qzt3.vercel.app/'
+},
 
 {
-  id:2,
+  id:3,
   image:IMG2,
   title:"CRUD Application Using MERN Stack",
   github:'https://github.com/ritik177',
@@ -31,7 +38,7 @@ const data=[
 },
 
 {
-  id:3,
+  id:4,
   image:IMG3,
   title:"Book My Movie Ticket",
   github:'https://github.com/ritik177',
@@ -39,7 +46,7 @@ const data=[
 },
 
 {
-  id:4,
+  id:5,
   image:IMG4,
   title:"Music App Clone",
   github:'https://github.com/ritik177',
@@ -47,7 +54,7 @@ const data=[
 },
 
 {
-  id:5,
+  id:6,
   image:IMG5,
   title:"Calculator",
   github:'https://github.com/ritik177/Calculator',
@@ -55,14 +62,14 @@ const data=[
 },
 
 {
-  id:6,
+  id:7,
   image:IMG6,
   title:"Tic-Tac-Toe Game",
   github:'https://github.com/ritik177',
   demo:'https://tic-tac-toe-theta-dun.vercel.app/'
 },
 {
-  id:7,
+  id:8,
   image:IMG7,
   title:"BirthDay_Wishes",
   github:'https://github.com/ritik177/Birthday-Wishes',
