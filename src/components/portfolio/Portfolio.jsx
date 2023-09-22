@@ -23,8 +23,8 @@ const data=[
 },
   {
   id:2,
-  image:IMG1,
-  title:"E-Commerce",
+  image:IMG11,
+  title:"E-Commerce Website",
   github:'https://github.com/ritik177/E-Commerce-website',
   demo:'e-commerce-website-qzt3.vercel.app/'
 },
