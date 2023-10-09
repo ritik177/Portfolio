@@ -66,7 +66,7 @@ function Education() {
                 <div className="buttons">
                   <a
                     // href="https://drive.google.com/file/d/1ZEkniMLaUDf8uI14mh8EGOSYAWBrcMaU/view"
-                    href={CV}
+                    href="https://drive.google.com/file/d/1ZYQNAGu4ubuNMZV7rpkxEXIokpFuOFSX/view?usp=sharing"
                     target="_blank"
                     className="btn"
                   >
