@@ -9,6 +9,7 @@ import IMG5 from "../../assets/portfolio5.png";
 import IMG6 from "../../assets/portfolio6.png";
 import IMG7 from "../../assets/portfolio7.png";
 import IMG9 from "../../assets/Chat_App.png";
+import IMG8 from "../../assets/portfolio8.png";
 
 //DO NOT USE THE IMAGES IN PRODUCTION
 
@@ -17,14 +18,14 @@ const data = [
     id: 1,
     image: IMG9,
     title: "Chat App",
-    github: "https://github.com/ritik177/ChatAp",
-    demo: "https://chatapp-g12p.onrender.com",
+    github: "https://github.com/ritik177/ChatApp",
+    demo: "https://chatapp-g12p.onrender.com/",
   },
   {
     id: 2,
     image: IMG1,
     title: "Amazon clone",
-    github: "https://github.com/ritik177",
+    github: "https://github.com/ritik177/Amazon-Clone",
     demo: "https://amazon-clone-lqqk.onrender.com/",
   },
   {
@@ -32,7 +33,7 @@ const data = [
     image: IMG11,
     title: "E-Commerce Website",
     github: "https://github.com/ritik177/E-Commerce-website",
-    demo: "e-commerce-website-qzt3.vercel.app/",
+    demo: "https://e-commerce-website-qzt3.vercel.app/",
   },
 
   {
@@ -45,6 +46,13 @@ const data = [
 
   {
     id: 5,
+    image: IMG8,
+    title: "TO-DO-LIST Using React.js",
+    github: "https://github.com/ritik177/Todo_List_Using_Reactjs",
+    demo: "https://todo-list-using-reactjs-lemon.vercel.app/",
+  },
+  {
+    id: 10,
     image: IMG3,
     title: "Book My Movie Ticket",
     github: "https://github.com/ritik177",
@@ -80,6 +88,13 @@ const data = [
     title: "BirthDay_Wishes",
     github: "https://github.com/ritik177/Birthday-Wishes",
     demo: "https://birthday-wishes-eosin.vercel.app/",
+  },
+  {
+    id: 10,
+    image: IMG3,
+    title: "Book My Movie Ticket",
+    github: "https://github.com/ritik177",
+    demo: "https://book-movie-ticket-pi.vercel.app/",
   },
 ];
 

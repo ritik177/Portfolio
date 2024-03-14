@@ -17,7 +17,7 @@ header{
 /*  ############## CTA ############## */
 
 .cta{
-    margin-top: 2.5rem;
+    margin-top: 2.3rem;
     display: flex;
     gap: 1.2rem;
     justify-content: center;
@@ -114,7 +114,7 @@ header{
     height: 100%;
     position: absolute;
     left: calc(50% - 7rem);
-    margin-top: 4rem;
+    margin-top: 1rem;
     border-radius: 11rem 11rem 1.5rem 1.5rem;
     overflow: hidden;
     padding: 5rem 1.5rem;
@@ -122,10 +122,10 @@ header{
     
 }
 .me img {
-    border-radius: 2rem;
+    border-radius: 1rem;
     overflow: hidden;
-    transform: rotate(0);
-    transition: var(--transition);
+    /* transform: rotate(0); */
+    /* transition: var(--transition); */
   }
 
 /* .me:hover{
@@ -164,6 +164,6 @@ header{
     display:none;
 }
 .me{
-    width: 15rem;
+    width: 13rem;
 }
 }
